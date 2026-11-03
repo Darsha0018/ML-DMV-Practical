@@ -1,0 +1,11 @@
+OrderID,Product,Category,Quantity,Price,Region,Sales
+101,Laptop,Electronics,2,50000,Pune,100000
+102,Mobile,Electronics,3,20000,Mumbai,60000
+103,Tablet,Electronics,1,15000,Delhi,15000
+104,Laptop,Electronics,2,50000,Pune,100000
+105,Mobile,Electronics,4,20000,Mumbai,80000
+106,Tablet,Electronics,2,15000,Delhi,30000
+107,Laptop,Electronics,1,50000,Pune,50000
+108,Mobile,Electronics,3,20000,Mumbai,60000
+109,Tablet,Electronics,2,15000,Delhi,30000
+110,Laptop,Electronics,1,50000,Pune,50000
